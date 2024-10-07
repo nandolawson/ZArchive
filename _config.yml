@@ -1,8 +1,9 @@
 description: "Creating everything Rust is missing"
 encoding: utf-8
 plugins:
-- jekyll-remote-theme
 - jekyll-readme-index
+- jekyll-remote-theme
+- jekyll-seo-tag
 readme_index:
   enabled:          true
   remove_originals: true
