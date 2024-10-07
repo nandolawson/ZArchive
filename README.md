@@ -5,7 +5,3 @@ Rust is an incredibly safe and efficient programming language. Thanks to Cargo, 
 ## We want to change that
 
 We specialize in porting and reimagining essential libraries and software from languages ​​like C++ into Rust. Our mission is to fill the gaps by creating high-performance, secure, and modern implementations where they've been missing, driving the future of software development.
-
-# Our portfolio
-
-Nothing yet, lol.
