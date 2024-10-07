@@ -3,7 +3,6 @@ encoding: utf-8
 plugins:
 - jekyll-readme-index
 - jekyll-remote-theme
-- jekyll-seo-tag
 readme_index:
   enabled:          true
   remove_originals: true
